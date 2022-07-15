@@ -1,0 +1,14 @@
+.odd {
+  transform: translatex(-400%);
+  animation: 1s linear;
+}
+.show-odd {
+ transform: translatex(0%);
+}
+.even {
+  transform: translatex(400%);
+  animation: 1s linear;
+}
+.show-even {
+  transform: translatex(0%);
+}
